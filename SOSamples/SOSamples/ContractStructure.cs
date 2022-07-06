@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace SOSamples
 {
+    /// <summary>
+    /// OP was using inheritance while the structure needs composition.
+    /// </summary>
+
     public class Contract
     {
         public int ContractId
