@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOSamples", "SOSamples\SOSa
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "StackOverflow", "StackOverflow\StackOverflow.sqlproj", "{9C1966CA-A433-4CF3-8011-22530D32E0F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityManager", "IdentityManager\IdentityManager.csproj", "{F9E8E270-49D5-4677-8CD7-EB0F31C803A7}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,10 +23,6 @@ Global
 		{9C1966CA-A433-4CF3-8011-22530D32E0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C1966CA-A433-4CF3-8011-22530D32E0F9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9C1966CA-A433-4CF3-8011-22530D32E0F9}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{F9E8E270-49D5-4677-8CD7-EB0F31C803A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9E8E270-49D5-4677-8CD7-EB0F31C803A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9E8E270-49D5-4677-8CD7-EB0F31C803A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9E8E270-49D5-4677-8CD7-EB0F31C803A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
