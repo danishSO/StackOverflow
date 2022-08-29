@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ContractStructure.cs" />
+    <Compile Include="ParallelSearcher.cs" />
     <Compile Include="ParseJSONToDataTable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
